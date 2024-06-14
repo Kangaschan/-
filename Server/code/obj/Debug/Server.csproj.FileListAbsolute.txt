@@ -1,0 +1,17 @@
+C:\MYSTUFF\КУРСАЧ\Server\bin\Debug\Server.exe.config
+C:\MYSTUFF\КУРСАЧ\Server\bin\Debug\Server.exe
+C:\MYSTUFF\КУРСАЧ\Server\bin\Debug\Server.pdb
+C:\MYSTUFF\КУРСАЧ\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\MYSTUFF\КУРСАЧ\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\КУРСАЧ\Server\obj\Debug\Server.exe
+C:\MYSTUFF\КУРСАЧ\Server\obj\Debug\Server.pdb
+C:\MYSTUFF\Kursach2\Server\bin\Debug\Server.exe.config
+C:\MYSTUFF\Kursach2\Server\bin\Debug\Server.exe
+C:\MYSTUFF\Kursach2\Server\bin\Debug\Server.pdb
+C:\MYSTUFF\Kursach2\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\MYSTUFF\Kursach2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\Kursach2\Server\obj\Debug\Server.exe
+C:\MYSTUFF\Kursach2\Server\obj\Debug\Server.pdb
+C:\MYSTUFF\Kursach2\Server\bin\Debug\GameClasses.dll
+C:\MYSTUFF\Kursach2\Server\bin\Debug\GameClasses.pdb
+C:\MYSTUFF\Kursach2\Server\obj\Debug\Server.csproj.CopyComplete
